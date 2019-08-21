@@ -1,0 +1,15 @@
+rootProject.name = 'bio-sources'
+include ':bio-source-aliases'
+project(':bio-source-aliases').projectDir = new File(settingsDir, './aliases')
+include ':bio-source-aliases'
+project(':bio-source-aliases').projectDir = new File(settingsDir, './aliases')
+include ':bio-source-aliases'
+project(':bio-source-aliases').projectDir = new File(settingsDir, './aliases')
+include ':bio-source-aliases'
+project(':bio-source-aliases').projectDir = new File(settingsDir, './aliases')
+include ':bio-source-aliases'
+project(':bio-source-aliases').projectDir = new File(settingsDir, './aliases')
+include ':bio-source-aliases'
+project(':bio-source-aliases').projectDir = new File(settingsDir, './aliases')
+include ':bio-source-aliases'
+project(':bio-source-aliases').projectDir = new File(settingsDir, './aliases')
