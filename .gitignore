@@ -1,0 +1,14 @@
+n/
+dist/
+client-dist/
+build/
+client-build/
+*.log
+*.log.*
+.settings
+.eclipse
+executeLog*
+*.pyc
+*.class
+productionLog
+*~
