@@ -43,7 +43,7 @@ public class AmelExpressionMetadataConverter extends BioFileConverter
     private HashMap<String,Item> publicationItems = new HashMap<String, Item>();
 
     private static final String DATASET_TITLE = "Apis mellifera RNASeq Expression dataset";
-    private static final String DATA_SOURCE_NAME = "Apis mellifera RNASeq Expression dataset from NCBI SRA
+    private static final String DATA_SOURCE_NAME = "Apis mellifera RNASeq Expression dataset from NCBI SRA";
 
     /**
      * Constructor
